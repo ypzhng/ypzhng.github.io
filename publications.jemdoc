@@ -2,16 +2,31 @@
 == Publications 
 
 === Conference
+- \[*C7*\] Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer \[[https://arxiv.org/abs/2605.15828 Paper]\] \n
+*Y. Zhang*, J. Cheng, W. Feng, J. Luo, C. Yang, Z. An, Y. Xu, W. Zhang \n
+The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS), 2026 (CCF-A) \n
+- \[*C6*\] TherMapNet Attention-Guided Runtime Full-Chip Thermal Map Prediction from Performance Metrics \[[https://arxiv.org/abs/2608.21887 Paper]\] \n
+Q. Gu, C. Ma, M. Yang, *Y. Zhang*, J. Zhang, W. Zhang, L. Jiang \n
+The 44th IEEE International Conference on Computer Design (ICCD), 2026 (CCF-B) \n
+- \[*C5*\] FLICKER: A Fine-Grained Contribution-Aware Accelerator for Real-Time 3D Gaussian Splatting \[[https://arxiv.org/pdf/2603.01158 Paper]\] \n
+W. Ou, Z. Wu, *Y. Zhang*, D. Wu, F. Z. Hong, C. P. Yue \n
+Design, Automation & Test in Europe Conference (DATE), 2026 (CCF-B) \n
+- \[*C4*\] DRACO: A Hardware-Efficient Robot Rigid Body Dynamics Accelerator with Precision-Aware Quantization Framework \[[https://arxiv.org/abs/2511.08395 Paper]\] \n
+X. Liu, J. Liang, *Y. Zhang*, L. Du, C. Ma, H. Yu, J. Xu, W. Zhang \n
+IEEE International Symposium on High Performance Computer Architecture (HPCA), 2026 (CCF-A) \n
 - \[*C3*\] HERO: Hardware-Efficient RL-based Optimization Framework for NeRF Quantization \n
 *Y. Zhang*, C. Ma, J. Ge, L. Jiang, J. Xu, W. Zhang \n
-IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), 2026 \[Accepted\] \n
+IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC), 2026 (CCF-C) \n
 - \[*C2*\] FLEX: Leveraging FPGA-CPU Synergy for Mixed-Cell-Height Legalization Acceleration \n
 X. Liu, J. Liang, L. Du, *Y. Zhang*, C. Ma, H. Fan, J. Xu, W. Zhang \n
-International Conference on Parallel Processing (ICPP), 2025 \n
+International Conference on Parallel Processing (ICPP), 2025 (CCF-B) \n
 - \[*C1*\] SpNeRF: Memory Efficient Sparse Volumetric Neural Rendering Accelerator for Edge Devices \[[DATE_camera_ready.pdf PDF]\] \n
 *Y. Zhang*, J. Liang, J. Peng, J. Xu, W. Zhang \n
-Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025 
+Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025 (CCF-B)
 === Journal
+- \[*J2*\] Guiding multimodal LLMs for efficient visual place recognition \n
+Z. He, W. Li, J. Cheng, *Y. Zhang*, C.-M. Vong, J. Wu, X. Chen \n
+Pattern Recognition Letters, 2026 (CCF-C) \n
 - \[*J1*\] Data-Pattern-Based Predictive On-Chip Power Meter in DNN Accelerator \n
 J. Peng, T. Liang, J. Jiang, *Y. Zhang*, Z. Lin, Z. Xie, W. Zhang \n
-IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD'24) 
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD'24) (CCF-A)
